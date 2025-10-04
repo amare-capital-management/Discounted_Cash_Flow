@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for HYP.JO - Hyprop Inv Ltd
+Sector: Real Estate
+Industry: REIT - Retail
+Country: South Africa
+Website: https://www.hyprop.co.za
+Description: Hyprop is a South African based specialist retail property fund with high-quality portfolios in South Africa and Eastern Europe, and is listed on the Johannesburg Stock Exchange (JSE) and A2X as a Real Estate Investment Trust (REIT) with a market cap
+
+FCFF: R3,294,786,000.00
+WACC: 8.18%
+ROIC: 285.99%
+Excess Returns: 277.81%
+Future FCFF: ['R3,459,525,300.00', 'R3,632,501,565.00', 'R3,814,126,643.25', 'R4,004,832,975.41', 'R4,205,074,624.18']
+PV of FCFF: ['R3,198,075,703.28', 'R3,104,204,098.21', 'R3,013,087,862.01', 'R2,924,646,117.64', 'R2,838,800,362.00']
+Terminal Value: R83,691,711,794.97
+PV of Terminal Value: R56,499,368,732.64
+Market Equity Value: R58,035,305,875.78
+Fair Value Per Share: R145.51
+Current Price: R4,798.00
+Upside: -96.97%
+Margin of Safety: -3197.35%
+Valuation: Overvalued
+================================================================================

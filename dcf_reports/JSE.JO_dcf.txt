@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for JSE.JO - JSE Ltd
+Sector: Financial Services
+Industry: Financial Data & Stock Exchanges
+Country: South Africa
+Website: https://www.jse.co.za
+Description: JSE Limited operates as a multi-asset class stock exchange in South Africa. It offers listing services for securities and debt instruments; trading, colocation, and client support services across its markets; post-trade services, such as risk managem
+
+FCFF: R5,655,417,000.00
+WACC: 25.00%
+ROIC: 1671.48%
+Excess Returns: 1646.48%
+Future FCFF: ['R5,938,187,850.00', 'R6,235,097,242.50', 'R6,546,852,104.63', 'R6,874,194,709.86', 'R7,217,904,445.35']
+PV of FCFF: ['R4,750,550,280.00', 'R3,990,462,235.20', 'R3,351,988,277.57', 'R2,815,670,153.16', 'R2,365,162,928.65']
+Terminal Value: R33,792,916,266.86
+PV of Terminal Value: R11,073,262,802.33
+Market Equity Value: R30,342,935,676.90
+Fair Value Per Share: R373.03
+Current Price: R12,906.00
+Upside: -97.11%
+Margin of Safety: -3359.79%
+Valuation: Overvalued
+================================================================================

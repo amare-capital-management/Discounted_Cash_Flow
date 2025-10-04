@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for NPN.JO - Naspers Ltd -N-
+Sector: Consumer Cyclical
+Industry: Internet Retail
+Country: South Africa
+Website: https://www.naspers.com
+Description: Naspers Limited operates as a consumer internet company in Africa, Asia, Europe, and internationally. The company operates internet platforms, such as classifieds, an online classifieds platform; Payments and Fintech, a mobile and online payment plat
+
+FCFF: R13,205,000,000.00
+WACC: 7.98%
+ROIC: 1816.30%
+Excess Returns: 1808.32%
+Future FCFF: ['R13,865,250,000.00', 'R14,558,512,500.00', 'R15,286,438,125.00', 'R16,050,760,031.25', 'R16,853,298,032.81']
+PV of FCFF: ['R12,840,885,255.88', 'R12,486,810,613.76', 'R12,142,499,227.81', 'R11,807,681,885.95', 'R11,482,096,799.35']
+Terminal Value: R348,756,511,405.11
+PV of Terminal Value: R237,606,669,956.27
+Market Equity Value: R288,088,643,739.03
+Fair Value Per Share: R368.84
+Current Price: R130,567.00
+Upside: -99.72%
+Margin of Safety: -35299.06%
+Valuation: Overvalued
+================================================================================

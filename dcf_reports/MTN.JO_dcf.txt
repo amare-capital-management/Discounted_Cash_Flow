@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for MTN.JO - MTN Group Ltd
+Sector: Communication Services
+Industry: Telecom Services
+Country: South Africa
+Website: https://www.mtn.com
+Description: MTN Group Limited, together with its subsidiaries, provides mobile telecommunications services in South Africa, Nigeria, South and East Africa, West and Central Africa, and the Middle East and North Africa. The company offers data, voice and SMS, int
+
+FCFF: R11,943,000,000.00
+WACC: 9.50%
+ROIC: 8.30%
+Excess Returns: -1.19%
+Future FCFF: ['R12,540,150,000.00', 'R13,167,157,500.00', 'R13,825,515,375.00', 'R14,516,791,143.75', 'R15,242,630,700.94']
+PV of FCFF: ['R11,452,508,635.36', 'R10,982,161,437.08', 'R10,531,131,097.14', 'R10,098,624,284.53', 'R9,683,880,249.85']
+Terminal Value: R241,649,699,096.54
+PV of Terminal Value: R153,523,810,579.40
+Market Equity Value: R80,829,116,283.37
+Fair Value Per Share: R44.74
+Current Price: R14,647.00
+Upside: -99.69%
+Margin of Safety: -32637.64%
+Valuation: Overvalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for GFI.JO - Gold Fields Ltd
+Sector: Basic Materials
+Industry: Gold
+Country: South Africa
+Website: https://www.goldfields.com
+Description: Gold Fields Limited operates as a gold producer with reserves and resources in Australia, South Africa, Ghana, Peru, Chile, and Canada. It also explores for copper and silver deposits. Gold Fields Limited was founded in 1887 and is based in Sandton, 
+
+FCFF: R854,600,000.00
+WACC: 8.66%
+ROIC: 27.92%
+Excess Returns: 19.26%
+Future FCFF: ['R897,330,000.00', 'R942,196,500.00', 'R989,306,325.00', 'R1,038,771,641.25', 'R1,090,710,223.31']
+PV of FCFF: ['R825,796,752.07', 'R797,964,282.39', 'R771,069,872.06', 'R745,081,904.95', 'R719,969,830.49']
+Terminal Value: R19,840,442,618.81
+PV of Terminal Value: R13,096,530,869.26
+Market Equity Value: R14,870,813,511.21
+Fair Value Per Share: R16.61
+Current Price: R72,681.00
+Upside: -99.98%
+Margin of Safety: -437342.49%
+Valuation: Overvalued
+================================================================================

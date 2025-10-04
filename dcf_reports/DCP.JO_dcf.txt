@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for DCP.JO - Dis-Chem Pharmacies Ltd
+Sector: Healthcare
+Industry: Pharmaceutical Retailers
+Country: South Africa
+Website: https://dischemgroup.com
+Description: Dis-Chem Pharmacies Limited, together with its subsidiaries, engages in the retail and wholesale of healthcare products and pharmaceuticals in South Africa. The company operates through two segments, Retail and Wholesale. It owns and operates a chain
+
+FCFF: R1,812,945,000.00
+WACC: 8.49%
+ROIC: 40.67%
+Excess Returns: 32.19%
+Future FCFF: ['R1,903,592,250.00', 'R1,998,771,862.50', 'R2,098,710,455.63', 'R2,203,645,978.41', 'R2,313,828,277.33']
+PV of FCFF: ['R1,754,704,653.23', 'R1,698,335,261.17', 'R1,643,776,719.94', 'R1,590,970,856.45', 'R1,539,861,366.43']
+Terminal Value: R43,449,784,284.79
+PV of Terminal Value: R28,915,993,833.89
+Market Equity Value: R31,493,651,691.11
+Fair Value Per Share: R36.75
+Current Price: R3,294.00
+Upside: -98.88%
+Margin of Safety: -8863.25%
+Valuation: Overvalued
+================================================================================

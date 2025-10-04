@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for KRO.JO - Karooooo Ltd
+Sector: Technology
+Industry: Software - Application
+Country: Singapore
+Website: https://www.karooooo.com
+Description: Karooooo Ltd. provides a mobility software-as-a-service (SaaS) platform for connected vehicles in South Africa, the rest of Africa, Europe, the Asia-Pacific, the Middle East, and the United States. It operates through Cartrack, Carzuka, and Karooooo 
+
+FCFF: R822,384,000.00
+WACC: 7.86%
+ROIC: 51.72%
+Excess Returns: 43.85%
+Future FCFF: ['R863,503,200.00', 'R906,678,360.00', 'R952,012,278.00', 'R999,612,891.90', 'R1,049,593,536.50']
+PV of FCFF: ['R800,551,446.11', 'R779,298,500.30', 'R758,609,775.20', 'R738,470,291.95', 'R718,865,469.33']
+Terminal Value: R22,228,240,735.04
+PV of Terminal Value: R15,224,097,855.70
+Market Equity Value: R19,337,689,338.59
+Fair Value Per Share: R625.95
+Current Price: R100,022.00
+Upside: -99.37%
+Margin of Safety: -15879.21%
+Valuation: Overvalued
+================================================================================

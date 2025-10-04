@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for ABG.JO - Absa Group Limited
+Sector: Financial Services
+Industry: Banks - Regional
+Country: South Africa
+Website: https://www.absa.africa
+Description: Absa Group Limited, together with its subsidiaries, provides retail and business banking, corporate and investment banking, insurance, financial, and wealth management products and services in South Africa and internationally. The company offers life
+
+FCFF: R115,697,000,000.00
+WACC: 25.00%
+ROIC: 0.00%
+Excess Returns: 0.00%
+Future FCFF: ['R121,481,850,000.00', 'R127,555,942,500.00', 'R133,933,739,625.00', 'R140,630,426,606.25', 'R147,661,947,936.56']
+PV of FCFF: ['R97,185,480,000.00', 'R81,635,803,200.00', 'R68,574,074,688.00', 'R57,602,222,737.92', 'R48,385,867,099.85']
+Terminal Value: R691,326,392,612.09
+PV of Terminal Value: R226,533,832,331.13
+Market Equity Value: R468,493,280,056.90
+Fair Value Per Share: R564.92
+Current Price: R18,885.00
+Upside: -97.01%
+Margin of Safety: -3242.92%
+Valuation: Overvalued
+================================================================================

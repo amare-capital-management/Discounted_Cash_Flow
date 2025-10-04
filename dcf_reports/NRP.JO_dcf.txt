@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for NRP.JO - NEPI Rockcastle N.V.
+Sector: Real Estate
+Industry: Real Estate - Diversified
+Country: Netherlands
+Website: https://www.nepirockcastle.com
+Description: NEPI Rockcastle N.V. (the Company, NEPI Rockcastle, the Group) is a public limited company domiciled in the Netherlands, having its registered office at Strawinskylaan 563, WTC Zuidas, Tower Ten, 5th Floor, 1077 XX Amsterdam, with registration 
+
+FCFF: R617,043,000.00
+WACC: 8.14%
+ROIC: 1831.15%
+Excess Returns: 1823.01%
+Future FCFF: ['R647,895,150.00', 'R680,289,907.50', 'R714,304,402.88', 'R750,019,623.02', 'R787,520,604.17']
+PV of FCFF: ['R599,126,118.91', 'R581,729,484.60', 'R564,837,990.81', 'R548,436,969.95', 'R532,512,180.31']
+Terminal Value: R15,780,970,350.41
+PV of Terminal Value: R10,670,906,747.35
+Market Equity Value: R10,895,730,491.94
+Fair Value Per Share: R15.33
+Current Price: R13,910.00
+Upside: -99.89%
+Margin of Safety: -90633.44%
+Valuation: Overvalued
+================================================================================

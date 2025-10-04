@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for FBR.JO - Famous Brands Ltd
+Sector: Consumer Defensive
+Industry: Food Distribution
+Country: South Africa
+Website: https://famousbrands.co.za
+Description: Famous Brands Limited, through its subsidiaries, operates as a quick service and casual dining restaurant franchisor in the United Kingdom, South Africa, South African Development Community, the Middle East, and Rest of Africa. It operates through Br
+
+FCFF: R945,857,000.00
+WACC: 9.20%
+ROIC: 98.98%
+Excess Returns: 89.78%
+Future FCFF: ['R993,149,850.00', 'R1,042,807,342.50', 'R1,094,947,709.63', 'R1,149,695,095.11', 'R1,207,179,849.86']
+PV of FCFF: ['R909,485,313.77', 'R874,512,252.88', 'R840,884,035.02', 'R808,548,946.02', 'R777,457,260.32']
+Terminal Value: R20,057,647,746.58
+PV of Terminal Value: R12,917,680,714.47
+Market Equity Value: R16,131,875,522.47
+Fair Value Per Share: R160.99
+Current Price: R5,247.00
+Upside: -96.93%
+Margin of Safety: -3159.15%
+Valuation: Overvalued
+================================================================================

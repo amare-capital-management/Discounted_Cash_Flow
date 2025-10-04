@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for AFT.JO - Afrimat Limited
+Sector: Basic Materials
+Industry: Building Materials
+Country: South Africa
+Website: https://www.afrimat.co.za
+Description: Afrimat Limited operates as a mining and materials company primarily in the southern African region. The company operates through five segments: Construction Materials, Industrial Minerals, Bulk Commodities, Future Materials and Metals, and Services.
+
+FCFF: R511,517,000.00
+WACC: 9.17%
+ROIC: 8.81%
+Excess Returns: -0.35%
+Future FCFF: ['R537,092,850.00', 'R563,947,492.50', 'R592,144,867.13', 'R621,752,110.48', 'R652,839,716.01']
+PV of FCFF: ['R491,995,437.42', 'R473,218,896.82', 'R455,158,945.14', 'R437,788,234.43', 'R421,080,460.47']
+Terminal Value: R10,904,967,357.76
+PV of Terminal Value: R7,033,684,630.15
+Market Equity Value: R7,677,160,604.44
+Fair Value Per Share: R50.43
+Current Price: R4,060.00
+Upside: -98.76%
+Margin of Safety: -7950.51%
+Valuation: Overvalued
+================================================================================

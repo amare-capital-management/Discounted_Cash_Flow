@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for DRD.JO - DRD Gold Ltd
+Sector: Basic Materials
+Industry: Gold
+Country: South Africa
+Website: https://www.drdgold.com
+Description: DRDGOLD Limited, a gold mining company, engages in the extraction of gold from the retreatment of surface mine tailings in South Africa. It sells gold and silver bullion. It is involved in provision care and maintenance services; and operation of tra
+
+FCFF: R-1,311,800,000.00
+WACC: 8.86%
+ROIC: 27.84%
+Excess Returns: 18.98%
+Future FCFF: ['R-1,377,390,000.00', 'R-1,446,259,500.00', 'R-1,518,572,475.00', 'R-1,594,501,098.75', 'R-1,674,226,153.69']
+PV of FCFF: ['R-1,265,257,953.98', 'R-1,220,367,197.83', 'R-1,177,069,144.56', 'R-1,135,307,285.82', 'R-1,095,027,118.16']
+Terminal Value: R-29,415,546,608.67
+PV of Terminal Value: R-19,239,229,515.68
+Market Equity Value: R-24,652,258,216.04
+Fair Value Per Share: R-28.53
+Current Price: R4,957.00
+Upside: -100.58%
+Margin of Safety: 17476.31%
+Valuation: Overvalued
+================================================================================

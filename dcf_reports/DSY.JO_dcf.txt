@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for DSY.JO - Discovery Ltd
+Sector: Financial Services
+Industry: Insurance - Life
+Country: South Africa
+Website: https://www.discovery.co.za
+Description: Discovery Limited provides various insurance products and services primarily in South Africa and the United Kingdom. It operates through SA Health, SA Life, SA Invest, SA Insure, SA Bank, UK Health, UK Life, and All Other segments. The company offers
+
+FCFF: Rnan
+WACC: 9.36%
+ROIC: 519.57%
+Excess Returns: 510.21%
+Future FCFF: ['Rnan', 'Rnan', 'Rnan', 'Rnan', 'Rnan']
+PV of FCFF: ['Rnan', 'Rnan', 'Rnan', 'Rnan', 'Rnan']
+Terminal Value: Rnan
+PV of Terminal Value: Rnan
+Market Equity Value: Rnan
+Fair Value Per Share: Rnan
+Current Price: R20,100.00
+Upside: nan%
+Margin of Safety: nan%
+Valuation: Overvalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for APN.JO - Aspen Pharmacare Hldgs Ltd
+Sector: Healthcare
+Industry: Drug Manufacturers - Specialty & Generic
+Country: South Africa
+Website: https://www.aspenpharma.com
+Description: Aspen Pharmacare Holdings Limited, together with its subsidiaries, manufactures and markets specialty and branded pharmaceutical products in Africa, the Middle East, the Americas, Europe CIS, Australasia, and Asia. It operates through Commercial Phar
+
+FCFF: Rnan
+WACC: 6.82%
+ROIC: 7.03%
+Excess Returns: 0.21%
+Future FCFF: ['Rnan', 'Rnan', 'Rnan', 'Rnan', 'Rnan']
+PV of FCFF: ['Rnan', 'Rnan', 'Rnan', 'Rnan', 'Rnan']
+Terminal Value: Rnan
+PV of Terminal Value: Rnan
+Market Equity Value: Rnan
+Fair Value Per Share: Rnan
+Current Price: R9,720.00
+Upside: nan%
+Margin of Safety: nan%
+Valuation: Overvalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for ADH.JO - ADvTECH Ltd
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: South Africa
+Website: https://www.advtech.co.za
+Description: ADvTECH Limited provides education, training, and staff placement services in South Africa and other African countries. It operates through Schools, Tertiary, and Resourcing divisions. The Schools division offers pre-primary, primary, and secondary e
+
+FCFF: R1,234,400,000.00
+WACC: 8.68%
+ROIC: 23.46%
+Excess Returns: 14.78%
+Future FCFF: ['R1,296,120,000.00', 'R1,360,926,000.00', 'R1,428,972,300.00', 'R1,500,420,915.00', 'R1,575,441,960.75']
+PV of FCFF: ['R1,192,655,875.82', 'R1,152,323,426.87', 'R1,113,354,914.05', 'R1,075,704,212.67', 'R1,039,326,757.85']
+Terminal Value: R28,593,406,237.12
+PV of Terminal Value: R18,863,209,778.98
+Market Equity Value: R21,792,274,966.24
+Fair Value Per Share: R39.62
+Current Price: R3,265.00
+Upside: -98.79%
+Margin of Safety: -8141.80%
+Valuation: Overvalued
+================================================================================

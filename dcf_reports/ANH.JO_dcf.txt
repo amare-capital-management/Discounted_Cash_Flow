@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for ANH.JO - Anheuser-Busch InBev SA NV
+Sector: Consumer Defensive
+Industry: Beverages - Brewers
+Country: Belgium
+Website: https://www.ab-inbev.com
+Description: Anheuser-Busch InBev SA/NV produces, distributes, exports, markets, and sells beer in North America, Middle Americas, South America, Europe, the Middle East, Africa, and the Asia Pacific. The company also provides spirits-based ready-to-drink and non
+
+FCFF: R16,433,000,000.00
+WACC: 8.09%
+ROIC: 62.77%
+Excess Returns: 54.67%
+Future FCFF: ['R17,254,650,000.00', 'R18,117,382,500.00', 'R19,023,251,625.00', 'R19,974,414,206.25', 'R20,973,134,916.56']
+PV of FCFF: ['R15,962,955,300.28', 'R15,506,355,620.92', 'R15,062,816,384.53', 'R14,631,964,014.03', 'R14,213,435,618.04']
+Terminal Value: R424,254,981,338.19
+PV of Terminal Value: R287,516,429,321.19
+Market Equity Value: R301,897,956,258.99
+Fair Value Per Share: R174.45
+Current Price: R102,776.00
+Upside: -99.83%
+Margin of Safety: -58815.32%
+Valuation: Overvalued
+================================================================================

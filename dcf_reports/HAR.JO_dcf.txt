@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for HAR.JO - Harmony GM Co Ltd
+Sector: Basic Materials
+Industry: Gold
+Country: South Africa
+Website: https://www.harmony.co.za
+Description: Harmony Gold Mining Company Limited engages in the exploration, extraction, and processing of mineral properties in South Africa, Papua New Guinea, and Australasia. The company explores for gold, uranium, silver, and copper deposits. It has eight und
+
+FCFF: R4,168,000,000.00
+WACC: 8.95%
+ROIC: 30.39%
+Excess Returns: 21.44%
+Future FCFF: ['R4,376,400,000.00', 'R4,595,220,000.00', 'R4,824,981,000.00', 'R5,066,230,050.00', 'R5,319,541,552.50']
+PV of FCFF: ['R4,017,006,591.75', 'R3,871,483,195.34', 'R3,731,231,649.60', 'R3,596,060,972.12', 'R3,465,787,099.17']
+Terminal Value: R92,135,786,521.49
+PV of Terminal Value: R60,028,297,015.12
+Market Equity Value: R81,102,866,523.09
+Fair Value Per Share: R129.85
+Current Price: R31,654.00
+Upside: -99.59%
+Margin of Safety: -24277.14%
+Valuation: Overvalued
+================================================================================

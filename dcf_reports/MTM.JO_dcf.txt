@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for MTM.JO - Momentum Group Limited
+Sector: Financial Services
+Industry: Insurance - Diversified
+Country: South Africa
+Website: https://www.momentumgroupltd.co.za
+Description: Momentum Group Limited, together with its subsidiaries, provides insurance and financial services in South Africa and internationally. It operates through Momentum Retail, Momentum Investments, Metropolitan Life, Momentum Corporate, Momentum Metropol
+
+FCFF: R14,257,000,000.00
+WACC: 12.12%
+ROIC: 405.66%
+Excess Returns: 393.54%
+Future FCFF: ['R14,969,850,000.00', 'R15,718,342,500.00', 'R16,504,259,625.00', 'R17,329,472,606.25', 'R18,195,946,236.56']
+PV of FCFF: ['R13,351,578,097.92', 'R12,503,656,989.89', 'R11,709,584,962.49', 'R10,965,942,212.31', 'R10,269,526,118.05']
+Terminal Value: R205,492,229,981.01
+PV of Terminal Value: R115,976,811,285.85
+Market Equity Value: R206,792,099,666.51
+Fair Value Per Share: R160.53
+Current Price: R3,385.00
+Upside: -95.26%
+Margin of Safety: -2008.63%
+Valuation: Overvalued
+================================================================================

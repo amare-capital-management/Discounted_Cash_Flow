@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for GND.JO - Grindrod Ltd
+Sector: Industrials
+Industry: Integrated Freight & Logistics
+Country: South Africa
+Website: https://www.grindrod.com
+Description: Grindrod Limited, together with its subsidiaries, engages in the logistics services business in North America, the Middle East, the United Kingdom, Isle of Man, rest of Europe, Singapore, Asia, the Far East, Australia, South Africa, and Rest of Afric
+
+FCFF: R800,533,000.00
+WACC: 8.83%
+ROIC: 36.37%
+Excess Returns: 27.54%
+Future FCFF: ['R840,559,650.00', 'R882,587,632.50', 'R926,717,014.13', 'R973,052,864.83', 'R1,021,705,508.07']
+PV of FCFF: ['R772,394,882.76', 'R745,245,798.64', 'R719,050,983.87', 'R693,776,896.62', 'R669,391,174.04']
+Terminal Value: R18,065,840,040.87
+PV of Terminal Value: R11,836,203,073.67
+Market Equity Value: R13,961,321,809.60
+Fair Value Per Share: R20.92
+Current Price: R1,538.00
+Upside: -98.64%
+Margin of Safety: -7250.71%
+Valuation: Overvalued
+================================================================================

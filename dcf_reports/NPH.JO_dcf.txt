@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for NPH.JO - Northam Platinum Hldgs Ltd
+Sector: Basic Materials
+Industry: Other Precious Metals & Mining
+Country: South Africa
+Website: https://www.northam.co.za
+Description: Northam Platinum Holdings Limited, through its subsidiary, Northam Platinum Limited, engages in the production and sale of platinum group metals. It operates through four segments: Zondereinde mine, Booysendal mine, Eland mine, and the US recycling o
+
+FCFF: R166,339,000.00
+WACC: 8.14%
+ROIC: 9.52%
+Excess Returns: 1.38%
+Future FCFF: ['R174,655,950.00', 'R183,388,747.50', 'R192,558,184.88', 'R202,186,094.12', 'R212,295,398.82']
+PV of FCFF: ['R161,501,759.87', 'R156,805,189.64', 'R152,245,198.56', 'R147,817,814.81', 'R143,519,182.10']
+Terminal Value: R4,250,099,799.60
+PV of Terminal Value: R2,873,217,462.43
+Market Equity Value: R-1,909,128,392.59
+Fair Value Per Share: R-4.85
+Current Price: R28,000.00
+Upside: -100.02%
+Margin of Safety: 577551.35%
+Valuation: Overvalued
+================================================================================

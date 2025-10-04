@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for KIO.JO - Kumba Iron Ore Ltd
+Sector: Basic Materials
+Industry: Steel
+Country: South Africa
+Website: https://www.angloamericankumba.com
+Description: Kumba Iron Ore Limited, together with its subsidiaries, engages in the exploration, extraction, beneficiation, marketing, sale, and shipping of iron ore for the steel industry in South Africa. The company produces iron ore at Sishen and Kolomela mine
+
+FCFF: R23,200,000,000.00
+WACC: 8.24%
+ROIC: 48.37%
+Excess Returns: 40.13%
+Future FCFF: ['R24,360,000,000.00', 'R25,578,000,000.00', 'R26,856,900,000.00', 'R28,199,745,000.00', 'R29,609,732,250.00']
+PV of FCFF: ['R22,506,070,951.04', 'R21,832,897,829.88', 'R21,179,859,811.48', 'R20,546,354,640.09', 'R19,931,798,073.93']
+Terminal Value: R582,305,399,921.61
+PV of Terminal Value: R391,979,013,879.72
+Market Equity Value: R510,539,995,186.15
+Fair Value Per Share: R1,591.12
+Current Price: R32,795.00
+Upside: -95.15%
+Margin of Safety: -1961.13%
+Valuation: Overvalued
+================================================================================

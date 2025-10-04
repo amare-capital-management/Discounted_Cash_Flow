@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for EQU.JO - Equites Prop Fund Ltd
+Sector: Real Estate
+Industry: REIT - Industrial
+Country: South Africa
+Website: https://www.equites.co.za
+Description: Equites Property Fund Limited (Equites) is a South African REIT, with a clear focus on being a market leader in the logistics property market by developing and acquiring A-grade, modern logistics facilities in prime locations in South Africa and th
+
+FCFF: R2,213,033,000.00
+WACC: 7.56%
+ROIC: 5467.59%
+Excess Returns: 5460.04%
+Future FCFF: ['R2,323,684,650.00', 'R2,439,868,882.50', 'R2,561,862,326.63', 'R2,689,955,442.96', 'R2,824,453,215.10']
+PV of FCFF: ['R2,160,456,211.09', 'R2,109,128,530.87', 'R2,059,020,283.26', 'R2,010,102,497.22', 'R1,962,346,890.02']
+Terminal Value: R63,864,111,344.62
+PV of Terminal Value: R44,370,903,228.49
+Market Equity Value: R43,132,651,640.94
+Fair Value Per Share: R52.22
+Current Price: R1,669.00
+Upside: -96.87%
+Margin of Safety: -3096.14%
+Valuation: Overvalued
+================================================================================

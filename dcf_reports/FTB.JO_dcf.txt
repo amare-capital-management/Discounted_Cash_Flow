@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for FTB.JO - Fairvest Limited B
+Sector: Real Estate
+Industry: REIT - Retail
+Country: South Africa
+Website: https://www.fairvest.co.za
+Description: Fairvest Limited is a JSE and A2X-listed SA REIT (Real Estate Investment Trust) and the largest South African-focused property fund with a portfolio worth R12.0 billion. Fairvest's direct property portfolio currently comprises 134 properties (74 reta
+
+FCFF: R1,364,441,000.00
+WACC: 9.23%
+ROIC: 74028.07%
+Excess Returns: 74018.84%
+Future FCFF: ['R1,432,663,050.00', 'R1,504,296,202.50', 'R1,579,511,012.63', 'R1,658,486,563.26', 'R1,741,410,891.42']
+PV of FCFF: ['R1,311,637,458.52', 'R1,260,877,401.51', 'R1,212,081,746.60', 'R1,165,174,471.91', 'R1,120,082,497.57']
+Terminal Value: R28,804,168,618.58
+PV of Terminal Value: R18,526,957,242.43
+Market Equity Value: R20,398,605,818.55
+Fair Value Per Share: R10.69
+Current Price: R572.00
+Upside: -98.13%
+Margin of Safety: -5251.70%
+Valuation: Overvalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for CLS.JO - Clicks Group Ltd
+Sector: Healthcare
+Industry: Pharmaceutical Retailers
+Country: South Africa
+Website: https://www.clicksgroup.co.za
+Description: Clicks Group Limited, together with its subsidiaries, operates as a health, wellness, and beauty retailer in South Africa and internationally. It operates through two segments: Retail and Distribution. The company provides retail, including Clicks, a
+
+FCFF: R5,100,279,000.00
+WACC: 8.86%
+ROIC: 66.91%
+Excess Returns: 58.05%
+Future FCFF: ['R5,355,292,950.00', 'R5,623,057,597.50', 'R5,904,210,477.38', 'R6,199,421,001.24', 'R6,509,392,051.31']
+PV of FCFF: ['R4,919,375,598.75', 'R4,744,888,717.18', 'R4,576,590,765.74', 'R4,414,262,227.31', 'R4,257,691,370.91']
+Terminal Value: R114,390,153,242.67
+PV of Terminal Value: R74,820,807,310.37
+Market Equity Value: R96,652,290,990.27
+Fair Value Per Share: R411.46
+Current Price: R35,353.00
+Upside: -98.84%
+Margin of Safety: -8492.01%
+Valuation: Overvalued
+================================================================================

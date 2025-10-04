@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for OMN.JO - Omnia Holdings Ltd
+Sector: Industrials
+Industry: Conglomerates
+Country: South Africa
+Website: https://www.omnia.co.za
+Description: Omnia Holdings Limited, together with its subsidiaries, research, develops, manufactures, and supplies chemicals, specialised services, and solutions for the agriculture, mining, and chemicals application industries in South Africa, rest of Africa, a
+
+FCFF: R1,632,000,000.00
+WACC: 10.30%
+ROIC: 34.59%
+Excess Returns: 24.29%
+Future FCFF: ['R1,713,600,000.00', 'R1,799,280,000.00', 'R1,889,244,000.00', 'R1,983,706,200.00', 'R2,082,891,510.00']
+PV of FCFF: ['R1,553,571,126.68', 'R1,478,911,302.48', 'R1,407,839,398.57', 'R1,340,182,990.57', 'R1,275,777,940.33']
+Terminal Value: R29,385,880,761.21
+PV of Terminal Value: R17,998,949,178.30
+Market Equity Value: R26,326,231,936.94
+Fair Value Per Share: R167.90
+Current Price: R7,413.00
+Upside: -97.74%
+Margin of Safety: -4315.06%
+Valuation: Overvalued
+================================================================================

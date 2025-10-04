@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for MTH.JO - Motus Holdings Ltd
+Sector: Consumer Cyclical
+Industry: Auto & Truck Dealerships
+Country: South Africa
+Website: https://www.motus.co.za
+Description: Motus Holdings Limited provides automotive mobility solutions in South Africa, the United Kingdom, Australia, and internationally. The company operates through five segments: Import and Distribution; Retail and Rental; Mobility Solutions; Aftermarket
+
+FCFF: R6,797,000,000.00
+WACC: 8.12%
+ROIC: 46.43%
+Excess Returns: 38.31%
+Future FCFF: ['R7,136,850,000.00', 'R7,493,692,500.00', 'R7,868,377,125.00', 'R8,261,795,981.25', 'R8,674,885,780.31']
+PV of FCFF: ['R6,601,012,394.58', 'R6,410,675,979.62', 'R6,225,827,806.25', 'R6,046,309,624.19', 'R5,871,967,746.18']
+Terminal Value: R174,599,338,177.04
+PV of Terminal Value: R118,185,035,312.72
+Market Equity Value: R126,313,828,863.54
+Fair Value Per Share: R715.72
+Current Price: R10,520.00
+Upside: -93.20%
+Margin of Safety: -1369.84%
+Valuation: Overvalued
+================================================================================

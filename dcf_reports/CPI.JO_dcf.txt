@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for CPI.JO - Capitec Bank Hldgs Ltd
+Sector: Financial Services
+Industry: Banks - Regional
+Country: South Africa
+Website: https://www.capitecbank.co.za
+Description: Capitec Bank Holdings Limited, through its subsidiaries, provides various banking products and services in South Africa. The company operates through three segments: Personal banking, Business banking, and Insurance. It offers transactional banking s
+
+FCFF: R23,639,123,000.00
+WACC: 10.46%
+ROIC: 0.00%
+Excess Returns: 0.00%
+Future FCFF: ['R24,821,079,150.00', 'R26,062,133,107.50', 'R27,365,239,762.88', 'R28,733,501,751.02', 'R30,170,176,838.57']
+PV of FCFF: ['R22,471,558,086.87', 'R21,361,660,618.77', 'R20,306,582,330.77', 'R19,303,615,637.17', 'R18,350,186,683.20']
+Terminal Value: R416,808,350,947.54
+PV of Terminal Value: R253,512,304,284.08
+Market Equity Value: R379,362,082,640.86
+Fair Value Per Share: R3,275.85
+Current Price: R347,687.00
+Upside: -99.06%
+Margin of Safety: -10513.65%
+Valuation: Overvalued
+================================================================================

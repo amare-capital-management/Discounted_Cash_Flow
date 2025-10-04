@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for INP.JO - Investec plc
+Sector: Financial Services
+Industry: Capital Markets
+Country: South Africa
+Website: https://www.investec.com
+Description: Investec Group provides various financial products and services in South Africa, the United Kingdom, and internationally. The company provides private banking services; wealth services, including wealth and portfolio management, stockbroking, and off
+
+FCFF: R16,093,000.00
+WACC: 11.49%
+ROIC: 0.00%
+Excess Returns: 0.00%
+Future FCFF: ['R16,897,650.00', 'R17,742,532.50', 'R18,629,659.13', 'R19,561,142.08', 'R20,539,199.19']
+PV of FCFF: ['R15,156,498.65', 'R14,274,495.20', 'R13,443,818.26', 'R12,661,480.97', 'R11,924,670.30']
+Terminal Value: R249,243,904.93
+PV of Terminal Value: R144,706,293.75
+Market Equity Value: R2,933,367,257.12
+Fair Value Per Share: R4.59
+Current Price: R13,090.00
+Upside: -99.96%
+Margin of Safety: -284923.05%
+Valuation: Overvalued
+================================================================================

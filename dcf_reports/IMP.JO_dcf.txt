@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for IMP.JO - Impala Platinum Hlgs Ltd
+Sector: Basic Materials
+Industry: Other Precious Metals & Mining
+Country: South Africa
+Website: https://www.implats.co.za
+Description: Impala Platinum Holdings Limited engages in the mining, concentrating, refining, and sells of platinum group metals (PGMs) and associated base metals in South Africa, Zimbabwe, and Canada. The company produces platinum, palladium, rhodium, nickel, an
+
+FCFF: R3,170,000,000.00
+WACC: 8.01%
+ROIC: 3.66%
+Excess Returns: -4.35%
+Future FCFF: ['R3,328,500,000.00', 'R3,494,925,000.00', 'R3,669,671,250.00', 'R3,853,154,812.50', 'R4,045,812,553.13']
+PV of FCFF: ['R3,081,753,837.38', 'R2,995,964,263.16', 'R2,912,562,891.06', 'R2,831,483,238.53', 'R2,752,660,673.76']
+Terminal Value: R83,232,542,903.68
+PV of Terminal Value: R56,629,155,359.92
+Market Equity Value: R79,041,580,263.81
+Fair Value Per Share: R88.12
+Current Price: R22,150.00
+Upside: -99.60%
+Margin of Safety: -25036.68%
+Valuation: Overvalued
+================================================================================

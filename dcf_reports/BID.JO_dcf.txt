@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for BID.JO - BID Corporation Ltd
+Sector: Consumer Defensive
+Industry: Food Distribution
+Country: South Africa
+Website: https://www.bidcorpgroup.com
+Description: Bid Corporation Limited engages in the provision of foodservice solutions in the United Kingdom, Australia, the Netherlands, Italy, New Zealand, Czech Republic, Belgium, South Africa, the People's Republic of China, Hong Kong, and internationally. Th
+
+FCFF: R9,807,102,000.00
+WACC: 8.17%
+ROIC: 33.00%
+Excess Returns: 24.83%
+Future FCFF: ['R10,297,457,100.00', 'R10,812,329,955.00', 'R11,352,946,452.75', 'R11,920,593,775.39', 'R12,516,623,464.16']
+PV of FCFF: ['R9,519,351,079.74', 'R9,240,043,080.96', 'R8,968,930,279.26', 'R8,705,772,218.75', 'R8,450,335,498.76']
+Terminal Value: R249,174,185,102.31
+PV of Terminal Value: R168,224,718,732.99
+Market Equity Value: R198,671,339,890.46
+Fair Value Per Share: R591.31
+Current Price: R43,232.00
+Upside: -98.63%
+Margin of Safety: -7211.22%
+Valuation: Overvalued
+================================================================================

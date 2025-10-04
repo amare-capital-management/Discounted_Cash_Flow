@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for LHC.JO - Life Healthc Grp Hldgs Ltd
+Sector: Healthcare
+Industry: Medical Care Facilities
+Country: South Africa
+Website: https://www.lifehealthcare.co.za
+Description: Life Healthcare Group Holdings Limited, an investment holding company, operates as a private healthcare company in Southern Africa, the United Kingdom, Europe, the United States, and internationally. The company operates acute hospitals. It also offe
+
+FCFF: R2,692,000,000.00
+WACC: 9.20%
+ROIC: 29.25%
+Excess Returns: 20.06%
+Future FCFF: ['R2,826,600,000.00', 'R2,967,930,000.00', 'R3,116,326,500.00', 'R3,272,142,825.00', 'R3,435,749,966.25']
+PV of FCFF: ['R2,588,560,096.22', 'R2,489,094,863.21', 'R2,393,451,574.52', 'R2,301,483,372.23', 'R2,213,049,041.41']
+Terminal Value: R57,116,083,741.17
+PV of Terminal Value: R36,789,840,824.94
+Market Equity Value: R46,816,479,772.54
+Fair Value Per Share: R32.46
+Current Price: R1,188.00
+Upside: -97.27%
+Margin of Safety: -3559.41%
+Valuation: Overvalued
+================================================================================
