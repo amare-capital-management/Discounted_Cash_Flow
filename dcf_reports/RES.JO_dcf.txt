@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for RES.JO - Resilient REIT Limited
+Sector: Real Estate
+Industry: REIT - Retail
+Country: South Africa
+Website: https://www.resilient.co.za
+Description: Resilient is a retail-focused Real Estate Investment Trust ("REIT") listed on the JSE Limited ("JSE"). Its strategy is to invest in dominant retail centres with a minimum of three anchor tenants and let predominantly to national retailers. A core com
+
+FCFF: R4,274,561,000.00
+WACC: 8.83%
+ROIC: 0.00%
+Excess Returns: 0.00%
+Future FCFF: ['R4,488,289,050.00', 'R4,712,703,502.50', 'R4,948,338,677.63', 'R5,195,755,611.51', 'R5,455,543,392.08']
+PV of FCFF: ['R4,124,216,514.45', 'R3,979,159,931.98', 'R3,839,205,266.95', 'R3,704,173,075.16', 'R3,573,890,223.80']
+Terminal Value: R96,422,796,921.51
+PV of Terminal Value: R63,165,933,529.04
+Market Equity Value: R69,132,077,541.37
+Fair Value Per Share: R207.21
+Current Price: R65.58
+Upside: 215.97%
+Margin of Safety: 68.35%
+Valuation: Undervalued
+================================================================================

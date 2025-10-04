@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for OUT.JO - OUTsurance Group Limited
+Sector: Financial Services
+Industry: Insurance - Diversified
+Country: South Africa
+Website: https://www.outsurance.co.za
+Description: OUTsurance Group Limited, a financial services company, provides insurance and investment products in South Africa, Australia, and Ireland. It operates through Personal Insurance; Business Insurance; Youi CTP; OUTsurance Central; OUTsurance Ireland; 
+
+FCFF: R7,649,000,000.00
+WACC: 8.72%
+ROIC: 499.10%
+Excess Returns: 490.38%
+Future FCFF: ['R8,031,450,000.00', 'R8,433,022,500.00', 'R8,854,673,625.00', 'R9,297,407,306.25', 'R9,762,277,671.56']
+PV of FCFF: ['R7,387,375,603.19', 'R7,134,699,738.87', 'R6,890,666,333.77', 'R6,654,979,783.47', 'R6,427,354,594.34']
+Terminal Value: R175,832,856,263.56
+PV of Terminal Value: R115,766,028,642.51
+Market Equity Value: R151,747,104,696.15
+Fair Value Per Share: R98.08
+Current Price: R73.72
+Upside: 33.04%
+Margin of Safety: 24.83%
+Valuation: Undervalued
+================================================================================

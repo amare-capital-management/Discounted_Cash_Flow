@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for AVI.JO - AVI Ltd
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: South Africa
+Website: https://www.avi.co.za
+Description: AVI Limited manufactures, processes, markets, and distributes branded consumer products in the food, beverage, footwear, apparel, and cosmetics sectors in South Africa, other African countries, Europe, and internationally. It operates through Entyce 
+
+FCFF: R3,549,000,000.00
+WACC: 8.98%
+ROIC: 92.22%
+Excess Returns: 83.24%
+Future FCFF: ['R3,726,450,000.00', 'R3,912,772,500.00', 'R4,108,411,125.00', 'R4,313,831,681.25', 'R4,529,523,265.31']
+PV of FCFF: ['R3,419,390,513.55', 'R3,294,514,365.78', 'R3,174,198,695.15', 'R3,058,276,953.03', 'R2,946,588,673.15']
+Terminal Value: R78,017,552,075.73
+PV of Terminal Value: R50,752,722,038.91
+Market Equity Value: R64,382,491,239.57
+Fair Value Per Share: R193.83
+Current Price: R98.00
+Upside: 97.79%
+Margin of Safety: 49.44%
+Valuation: Undervalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for BAW.JO - Barloworld Ltd
+Sector: Industrials
+Industry: Specialty Industrial Machinery
+Country: South Africa
+Website: https://www.barloworld.com
+Description: Barloworld Limited operates as an industrial processing, distribution, and services company in Southern Africa, the United Kingdom, Australia, Russia, and Mongolia. The company operates through Equipment Southern Africa, Ingrain, Equipment Mongolia, 
+
+FCFF: R4,224,000,000.00
+WACC: 10.94%
+ROIC: 42.09%
+Excess Returns: 31.14%
+Future FCFF: ['R4,435,200,000.00', 'R4,656,960,000.00', 'R4,889,808,000.00', 'R5,134,298,400.00', 'R5,391,013,320.00']
+PV of FCFF: ['R3,997,742,493.19', 'R3,783,604,413.32', 'R3,580,936,586.30', 'R3,389,124,610.91', 'R3,207,586,996.15']
+Terminal Value: R69,910,789,075.68
+PV of Terminal Value: R41,596,064,527.93
+Market Equity Value: R54,603,059,627.79
+Fair Value Per Share: R292.87
+Current Price: R119.72
+Upside: 144.63%
+Margin of Safety: 59.12%
+Valuation: Undervalued
+================================================================================

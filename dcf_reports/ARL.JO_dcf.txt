@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for ARL.JO - Astral Foods Ltd
+Sector: Consumer Defensive
+Industry: Farm Products
+Country: South Africa
+Website: https://www.astralfoods.com
+Description: Astral Foods Limited operates as an integrated poultry producer in South Africa and internationally. The company operates through Poultry and Feed segments. It also engages in the marketing, sale, and distribution of fresh and frozen poultry products
+
+FCFF: R1,207,934,000.00
+WACC: 9.56%
+ROIC: 35.24%
+Excess Returns: 25.68%
+Future FCFF: ['R1,268,330,700.00', 'R1,331,747,235.00', 'R1,398,334,596.75', 'R1,468,251,326.59', 'R1,541,663,892.92']
+PV of FCFF: ['R1,157,648,120.94', 'R1,109,455,625.82', 'R1,063,269,367.77', 'R1,019,005,827.85', 'R976,584,963.94']
+Terminal Value: R24,202,364,096.86
+PV of Terminal Value: R15,331,269,660.97
+Market Equity Value: R20,461,328,567.30
+Fair Value Per Share: R532.33
+Current Price: R211.49
+Upside: 151.70%
+Margin of Safety: 60.27%
+Valuation: Undervalued
+================================================================================

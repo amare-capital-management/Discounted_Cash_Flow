@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for CSB.JO - Cashbuild Ltd
+Sector: Consumer Cyclical
+Industry: Home Improvement Retail
+Country: South Africa
+Website: https://www.cashbuild.co.za
+Description: Cashbuild Limited engages in the retailing of building materials and associated products in South Africa, Botswana, Eswatini, Lesotho, Namibia, Zambia, and Malawi. It operates through Cashbuild, P&L Hardware, Cashbuild Common Monetary Operations, and
+
+FCFF: R648,720,000.00
+WACC: 9.50%
+ROIC: 20.91%
+Excess Returns: 11.41%
+Future FCFF: ['R681,156,000.00', 'R715,213,800.00', 'R750,974,490.00', 'R788,523,214.50', 'R827,949,375.23']
+PV of FCFF: ['R622,047,320.72', 'R596,471,311.53', 'R571,946,881.89', 'R548,430,795.22', 'R525,881,592.62']
+Terminal Value: R13,115,212,395.79
+PV of Terminal Value: R8,330,278,382.52
+Market Equity Value: R10,297,176,284.49
+Fair Value Per Share: R493.76
+Current Price: R140.20
+Upside: 252.18%
+Margin of Safety: 71.61%
+Valuation: Undervalued
+================================================================================

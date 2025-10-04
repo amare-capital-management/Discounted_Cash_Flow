@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for DTC.JO - Datatec Ltd
+Sector: Technology
+Industry: Information Technology Services
+Country: South Africa
+Website: https://www.datatec.com
+Description: Datatec Limited, together with its subsidiaries, provides information and communication technology (ICT) solutions and services worldwide. It operates through Westcon International, Logicalis International, and Logicalis Latin America segments. The c
+
+FCFF: R192,412,000.00
+WACC: 9.47%
+ROIC: 174.53%
+Excess Returns: 165.06%
+Future FCFF: ['R202,032,600.00', 'R212,134,230.00', 'R222,740,941.50', 'R233,877,988.58', 'R245,571,888.00']
+PV of FCFF: ['R184,557,887.54', 'R177,024,374.01', 'R169,798,372.81', 'R162,867,331.52', 'R156,219,210.10']
+Terminal Value: R3,910,369,428.35
+PV of Terminal Value: R2,487,560,071.60
+Market Equity Value: R3,301,772,247.58
+Fair Value Per Share: R14.06
+Current Price: R60.48
+Upside: -76.76%
+Margin of Safety: -330.29%
+Valuation: Overvalued
+================================================================================

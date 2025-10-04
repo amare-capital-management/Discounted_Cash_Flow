@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for PHP.JO - Primary Health Prop PLC
+Sector: Real Estate
+Industry: REIT - Healthcare Facilities
+Country: United Kingdom
+Website: https://www.phpgroup.co.uk
+Description: Primary Health Properties PLC (PHP) is a UK Real Estate Investment Trust (REIT) and leading investor in modern primary healthcare premises. We invest in flexible, modern properties for local primary healthcare. The overall objective of the group 
+
+FCFF: R91,400,000.00
+WACC: 8.36%
+ROIC: 0.00%
+Excess Returns: 0.00%
+Future FCFF: ['R95,970,000.00', 'R100,768,500.00', 'R105,806,925.00', 'R111,097,271.25', 'R116,652,134.81']
+PV of FCFF: ['R88,569,961.46', 'R85,827,550.03', 'R83,170,052.50', 'R80,594,839.66', 'R78,099,363.70']
+Terminal Value: R2,243,720,565.29
+PV of Terminal Value: R1,502,185,525.81
+Market Equity Value: R580,747,293.15
+Fair Value Per Share: R0.23
+Current Price: R21.20
+Upside: -98.93%
+Margin of Safety: -9282.22%
+Valuation: Overvalued
+================================================================================

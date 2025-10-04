@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for S32.JO - South32 Limited
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Australia
+Website: https://www.south32.net
+Description: South32 Limited operates as a diversified metals and mining company. The company operates through Worsley Alumina, Brazil Alumina, Brazil Aluminium, Hillside Aluminium, Mozal Aluminium, Sierra Gorda, Cannington, Hermosa, Australia Manganese, and Sout
+
+FCFF: R334,000,000.00
+WACC: 8.42%
+ROIC: 12.85%
+Excess Returns: 4.42%
+Future FCFF: ['R350,700,000.00', 'R368,235,000.00', 'R386,646,750.00', 'R405,979,087.50', 'R426,278,041.88']
+PV of FCFF: ['R323,454,457.01', 'R313,241,873.54', 'R303,351,736.89', 'R293,773,866.29', 'R284,498,402.41']
+Terminal Value: R8,095,924,812.02
+PV of Terminal Value: R5,403,228,524.06
+Market Equity Value: R6,963,548,860.20
+Fair Value Per Share: R1.55
+Current Price: R33.18
+Upside: -95.33%
+Margin of Safety: -2039.32%
+Valuation: Overvalued
+================================================================================

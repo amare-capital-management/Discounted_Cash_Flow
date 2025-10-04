@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for AFH.JO - Alexander Forbes Grp Hldgs
+Sector: Financial Services
+Industry: Financial Conglomerates
+Country: South Africa
+Website: https://www.alexforbes.com
+Description: Alexander Forbes Group Holdings Limited, a financial services company, provides employee benefits, retirement and healthcare consulting, investment, and wealth management solutions to corporate clients and individuals. It offers solutions for individ
+
+FCFF: R1,102,000,000.00
+WACC: 9.36%
+ROIC: 234.51%
+Excess Returns: 225.16%
+Future FCFF: ['R1,157,100,000.00', 'R1,214,955,000.00', 'R1,275,702,750.00', 'R1,339,487,887.50', 'R1,406,462,281.88']
+PV of FCFF: ['R1,058,105,501.30', 'R1,015,959,393.72', 'R975,492,035.93', 'R936,636,560.51', 'R899,328,763.52']
+Terminal Value: R22,792,574,640.14
+PV of Terminal Value: R14,574,168,275.00
+Market Equity Value: R27,406,690,529.97
+Fair Value Per Share: R21.66
+Current Price: R7.63
+Upside: 183.84%
+Margin of Safety: 64.77%
+Valuation: Undervalued
+================================================================================

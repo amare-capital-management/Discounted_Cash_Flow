@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for HCI.JO - Hosken Cons Inv Ltd
+Sector: Industrials
+Industry: Conglomerates
+Country: South Africa
+Website: https://www.hci.co.za
+Description: Hosken Consolidated Investments Limited, an investment holding company, operates media and broadcasting, gaming, transport, properties, coal mining, and branded products and manufacturing businesses in South Africa, Other African countries, the Middl
+
+FCFF: R8,726,644,000.00
+WACC: 8.77%
+ROIC: 29.87%
+Excess Returns: 21.10%
+Future FCFF: ['R9,162,976,200.00', 'R9,621,125,010.00', 'R10,102,181,260.50', 'R10,607,290,323.53', 'R11,137,654,839.70']
+PV of FCFF: ['R8,424,251,646.57', 'R8,132,337,678.12', 'R7,850,539,001.63', 'R7,578,505,105.85', 'R7,315,897,625.31']
+Terminal Value: R198,851,430,222.74
+PV of Terminal Value: R130,617,865,887.73
+Market Equity Value: R158,985,845,945.21
+Fair Value Per Share: R1,958.04
+Current Price: R129.94
+Upside: 1406.88%
+Margin of Safety: 93.36%
+Valuation: Undervalued
+================================================================================

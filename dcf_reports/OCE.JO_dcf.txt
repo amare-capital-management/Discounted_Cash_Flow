@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for OCE.JO - Oceana Group Ltd
+Sector: Consumer Defensive
+Industry: Packaged Foods
+Country: South Africa
+Website: https://www.oceana.co.za
+Description: Oceana Group Limited operates as a fishing and food processing company in South Africa, Namibia, rest of Africa, North America, Europe, the Far East, and internationally. It engages in catching, processing, and procuring various marine species, inclu
+
+FCFF: R1,296,000,000.00
+WACC: 8.47%
+ROIC: 66.26%
+Excess Returns: 57.79%
+Future FCFF: ['R1,360,800,000.00', 'R1,428,840,000.00', 'R1,500,282,000.00', 'R1,575,296,100.00', 'R1,654,060,905.00']
+PV of FCFF: ['R1,254,533,564.23', 'R1,214,393,876.38', 'R1,175,538,486.20', 'R1,137,926,301.69', 'R1,101,517,545.59']
+Terminal Value: R31,142,558,867.73
+PV of Terminal Value: R20,739,305,852.48
+Market Equity Value: R23,851,215,626.57
+Fair Value Per Share: R198.81
+Current Price: R49.95
+Upside: 298.02%
+Margin of Safety: 74.88%
+Valuation: Undervalued
+================================================================================

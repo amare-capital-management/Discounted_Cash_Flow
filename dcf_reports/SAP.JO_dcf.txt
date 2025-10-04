@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SAP.JO - Sappi Ltd
+Sector: Basic Materials
+Industry: Paper & Paper Products
+Country: South Africa
+Website: https://www.sappi.com
+Description: Sappi Limited, together with its subsidiaries, engages in the provision of materials made from woodfiber-based renewable resources in Europe, North America, and South Africa. The company offers speciality paper; flexible packaging paper, paperboard, 
+
+FCFF: R19,000,000.00
+WACC: 8.84%
+ROIC: 6.60%
+Excess Returns: -2.24%
+Future FCFF: ['R19,950,000.00', 'R20,947,500.00', 'R21,994,875.00', 'R23,094,618.75', 'R24,249,349.69']
+PV of FCFF: ['R18,329,808.92', 'R17,683,257.64', 'R17,059,512.29', 'R16,457,768.45', 'R15,877,250.05']
+Terminal Value: R427,750,993.81
+PV of Terminal Value: R280,069,757.64
+Market Equity Value: R-1,056,522,645.00
+Fair Value Per Share: R-1.76
+Current Price: R23.55
+Upside: -107.46%
+Margin of Safety: 1441.35%
+Valuation: Overvalued
+================================================================================

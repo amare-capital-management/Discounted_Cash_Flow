@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for AFE.JO - AECI Limited
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: South Africa
+Website: https://www.aeciworld.com
+Description: AECI Ltd, together with its subsidiaries, provides products and services for mining, water treatment, plant and animal health, food and beverage, manufacturing, and general industrial sectors. The company operates through four segments: AECI Mining, 
+
+FCFF: R1,878,000,000.00
+WACC: 9.62%
+ROIC: 25.66%
+Excess Returns: 16.04%
+Future FCFF: ['R1,971,900,000.00', 'R2,070,495,000.00', 'R2,174,019,750.00', 'R2,282,720,737.50', 'R2,396,856,774.38']
+PV of FCFF: ['R1,798,847,677.87', 'R1,723,031,399.46', 'R1,650,410,560.07', 'R1,580,850,481.10', 'R1,514,222,160.27']
+Terminal Value: R37,291,490,131.09
+PV of Terminal Value: R23,559,021,694.52
+Market Equity Value: R28,075,383,973.30
+Fair Value Per Share: R266.07
+Current Price: R96.12
+Upside: 176.81%
+Margin of Safety: 63.87%
+Valuation: Undervalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for NED.JO - Nedbank Group Ltd
+Sector: Financial Services
+Industry: Banks - Regional
+Country: South Africa
+Website: https://www.nedbank.co.za
+Description: Nedbank Group Limited, together with its subsidiaries, provides various wholesale and retail banking services in South Africa and internationally. The company operates through Nedbank Corporate and Investment Banking; Nedbank Retail and Business Bank
+
+FCFF: R100,252,000,000.00
+WACC: 25.00%
+ROIC: 0.00%
+Excess Returns: 0.00%
+Future FCFF: ['R105,264,600,000.00', 'R110,527,830,000.00', 'R116,054,221,500.00', 'R121,856,932,575.00', 'R127,949,779,203.75']
+PV of FCFF: ['R84,211,680,000.00', 'R70,737,811,200.00', 'R59,419,761,408.00', 'R49,912,599,582.72', 'R41,926,583,649.48']
+Terminal Value: R599,037,602,635.74
+PV of Terminal Value: R196,292,641,631.68
+Market Equity Value: R527,581,077,471.88
+Fair Value Per Share: R1,133.69
+Current Price: R226.97
+Upside: 399.49%
+Margin of Safety: 79.98%
+Valuation: Undervalued
+================================================================================

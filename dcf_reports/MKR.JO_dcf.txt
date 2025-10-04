@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for MKR.JO - Montauk Renewables Inc
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: United States
+Website: https://www.montaukenergy.com
+Description: Montauk Renewables, Inc., a renewable energy company, engages in recovery and processing of biogas from landfills and other non-fossil fuel sources. The company operates in two segments, Renewable Natural Gas and Renewable Electricity Generation. It 
+
+FCFF: R-47,312,000.00
+WACC: 9.10%
+ROIC: 6.73%
+Excess Returns: -2.37%
+Future FCFF: ['R-49,677,600.00', 'R-52,161,480.00', 'R-54,769,554.00', 'R-57,508,031.70', 'R-60,383,433.29']
+PV of FCFF: ['R-45,535,225.99', 'R-43,825,177.67', 'R-42,179,349.20', 'R-40,595,328.83', 'R-39,070,795.41']
+Terminal Value: R-1,020,078,126.47
+PV of Terminal Value: R-660,036,397.69
+Market Equity Value: R-888,536,274.79
+Fair Value Per Share: R-6.25
+Current Price: R36.60
+Upside: -117.07%
+Margin of Safety: 685.97%
+Valuation: Overvalued
+================================================================================

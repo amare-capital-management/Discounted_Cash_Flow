@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for ITE.JO - Italtile Ltd
+Sector: Consumer Cyclical
+Industry: Home Improvement Retail
+Country: South Africa
+Website: https://www.italtile.com
+Description: Italtile Limited manufactures, retails, and franchises tiles, bathroom ware, and related home-finishing products in South Africa, rest of Africa, and Australia. The company imports, distributes, and retails brassware and accessories, laminate and vin
+
+FCFF: R2,485,000,000.00
+WACC: 8.96%
+ROIC: 37.08%
+Excess Returns: 28.12%
+Future FCFF: ['R2,609,250,000.00', 'R2,739,712,500.00', 'R2,876,698,125.00', 'R3,020,533,031.25', 'R3,171,559,682.81']
+PV of FCFF: ['R2,394,590,960.20', 'R2,307,471,173.71', 'R2,223,520,971.22', 'R2,142,625,037.22', 'R2,064,672,251.60']
+Terminal Value: R54,770,718,291.68
+PV of Terminal Value: R35,655,511,346.62
+Market Equity Value: R48,021,391,740.57
+Fair Value Per Share: R40.36
+Current Price: R9.50
+Upside: 324.87%
+Margin of Safety: 76.46%
+Valuation: Undervalued
+================================================================================

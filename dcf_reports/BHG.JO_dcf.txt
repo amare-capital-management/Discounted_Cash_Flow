@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for BHG.JO - BHP Group Limited
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Australia
+Website: https://www.bhp.com
+Description: BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore, and Coal segments. It also engag
+
+FCFF: R16,258,000,000.00
+WACC: 8.33%
+ROIC: 26.46%
+Excess Returns: 18.12%
+Future FCFF: ['R17,070,900,000.00', 'R17,924,445,000.00', 'R18,820,667,250.00', 'R19,761,700,612.50', 'R20,749,785,643.13']
+PV of FCFF: ['R15,758,044,025.68', 'R15,273,462,388.69', 'R14,803,782,306.91', 'R14,348,545,536.90', 'R13,907,307,926.86']
+Terminal Value: R400,880,183,838.34
+PV of Terminal Value: R268,685,385,685.66
+Market Equity Value: R330,049,527,870.71
+Fair Value Per Share: R64.99
+Current Price: R483.76
+Upside: -86.56%
+Margin of Safety: -644.32%
+Valuation: Overvalued
+================================================================================

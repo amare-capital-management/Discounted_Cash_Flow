@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for MCG.JO - MultiChoice Group Ltd
+Sector: Communication Services
+Industry: Entertainment
+Country: South Africa
+Website: https://www.multichoice.com
+Description: MultiChoice Group Limited, through its subsidiaries, operates video-entertainment subscriber platforms in South Africa and rest of Africa. The company operates through South Africa, Rest of Africa, Showmax, and Technology segments. It offers digital 
+
+FCFF: R8,687,000,000.00
+WACC: 9.16%
+ROIC: 86.30%
+Excess Returns: 77.14%
+Future FCFF: ['R9,121,350,000.00', 'R9,577,417,500.00', 'R10,056,288,375.00', 'R10,559,102,793.75', 'R11,087,057,933.44']
+PV of FCFF: ['R8,356,150,278.95', 'R8,037,901,172.37', 'R7,731,772,778.14', 'R7,437,303,471.49', 'R7,154,049,208.92']
+Terminal Value: R185,464,828,946.94
+PV of Terminal Value: R119,673,273,178.23
+Market Equity Value: R143,379,450,088.10
+Fair Value Per Share: R334.21
+Current Price: R124.61
+Upside: 168.20%
+Margin of Safety: 62.71%
+Valuation: Undervalued
+================================================================================

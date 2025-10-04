@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for AHR.JO - ASSURA PLC
+Sector: 
+Industry: 
+Country: United Kingdom
+Website: https://www.assuraplc.com
+Description: Assura plc is the UK's leading diversified healthcare REIT. Assura enables better health outcomes through its portfolio of more than 600 healthcare buildings, from which over six million patients are served. A UK REIT based in Altrincham, Assura is a
+
+FCFF: R0.00
+WACC: 8.47%
+ROIC: 0.00%
+Excess Returns: 0.00%
+Future FCFF: ['R0.00', 'R0.00', 'R0.00', 'R0.00', 'R0.00']
+PV of FCFF: ['R0.00', 'R0.00', 'R0.00', 'R0.00', 'R0.00']
+Terminal Value: R0.00
+PV of Terminal Value: R0.00
+Market Equity Value: R0.00
+Fair Value Per Share: R0.00
+Current Price: R11.40
+Upside: -100.00%
+Margin of Safety: 0.00%
+Valuation: Overvalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for GLN.JO - Glencore plc
+Sector: Basic Materials
+Industry: Other Industrial Metals & Mining
+Country: Switzerland
+Website: https://www.glencore.com
+Description: Glencore plc engages in the production, refinement, processing, storage, transport, and marketing of metals and minerals, and energy products in the Americas, Europe, Asia, Africa, and Oceania. It operates in two segments, Marketing Activities and In
+
+FCFF: R2,753,000,000.00
+WACC: 8.11%
+ROIC: 3.83%
+Excess Returns: -4.27%
+Future FCFF: ['R2,890,650,000.00', 'R3,035,182,500.00', 'R3,186,941,625.00', 'R3,346,288,706.25', 'R3,513,603,141.56']
+PV of FCFF: ['R2,673,923,589.57', 'R2,597,118,548.08', 'R2,522,519,633.35', 'R2,450,063,477.21', 'R2,379,688,531.66']
+Terminal Value: R70,888,956,673.06
+PV of Terminal Value: R48,011,579,685.95
+Market Equity Value: R24,694,893,465.81
+Fair Value Per Share: R2.09
+Current Price: R80.32
+Upside: -97.40%
+Margin of Safety: -3742.58%
+Valuation: Overvalued
+================================================================================

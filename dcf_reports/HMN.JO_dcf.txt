@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for HMN.JO - Hammerson plc
+Sector: Real Estate
+Industry: REIT - Retail
+Country: United Kingdom
+Website: https://www.hammerson.com
+Description: Hammerson is the largest UK-listed, pure-play owner and manager of prime retail and leisure anchored city destinations across the UK, France and Ireland. We own, manage and invest in landmark city destinations integrating retail, leisure and communit
+
+FCFF: R-610,700,000.00
+WACC: 6.82%
+ROIC: 334.18%
+Excess Returns: 327.36%
+Future FCFF: ['R-641,235,000.00', 'R-673,296,750.00', 'R-706,961,587.50', 'R-742,309,666.88', 'R-779,425,150.22']
+PV of FCFF: ['R-600,298,745.54', 'R-590,074,642.04', 'R-580,024,672.32', 'R-570,145,870.60', 'R-560,435,321.59']
+Terminal Value: R-21,019,690,247.86
+PV of Terminal Value: R-15,113,929,619.10
+Market Equity Value: R-18,798,508,871.19
+Fair Value Per Share: R-35.51
+Current Price: R68.09
+Upside: -152.16%
+Margin of Safety: 291.72%
+Valuation: Overvalued
+================================================================================

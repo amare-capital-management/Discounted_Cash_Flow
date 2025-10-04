@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for COH.JO - Curro Holdings Limited
+Sector: Consumer Defensive
+Industry: Education & Training Services
+Country: South Africa
+Website: https://www.curro.co.za
+Description: Curro Holdings Limited, together with its subsidiaries, acquires, develops, and manages independent schools primarily in South Africa, Namibia, and Botswana. The company operates in Curro and Meridian segments. It offers independent education and anc
+
+FCFF: R179,000,000.00
+WACC: 9.27%
+ROIC: 4.97%
+Excess Returns: -4.30%
+Future FCFF: ['R187,950,000.00', 'R197,347,500.00', 'R207,214,875.00', 'R217,575,618.75', 'R228,454,399.69']
+PV of FCFF: ['R172,006,511.32', 'R165,286,256.63', 'R158,828,560.74', 'R152,623,165.54', 'R146,660,213.70']
+Terminal Value: R3,753,446,405.19
+PV of Terminal Value: R2,409,589,189.95
+Market Equity Value: R-483,006,102.11
+Fair Value Per Share: R-0.87
+Current Price: R11.98
+Upside: -107.29%
+Margin of Safety: 1472.22%
+Valuation: Overvalued
+================================================================================
