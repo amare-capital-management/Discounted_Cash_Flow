@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SUI.JO - Sun International Ltd
+Sector: Consumer Cyclical
+Industry: Resorts & Casinos
+Country: South Africa
+Website: https://www.suninternational.com
+Description: Sun International Limited owns and operates casino, hotel, and resort properties in South Africa. The company offers management services for businesses in the hotel, resort, casino, and gambling industry. It is also involved in the gaming route opera
+
+FCFF: R2,293,000,000.00
+WACC: 9.28%
+ROIC: 28.79%
+Excess Returns: 19.51%
+Future FCFF: ['R2,407,650,000.00', 'R2,528,032,500.00', 'R2,654,434,125.00', 'R2,787,155,831.25', 'R2,926,513,622.81']
+PV of FCFF: ['R2,203,165,516.45', 'R2,116,850,542.03', 'R2,033,917,190.44', 'R1,954,232,977.44', 'R1,877,670,609.25']
+Terminal Value: R47,987,895,378.93
+PV of Terminal Value: R30,789,352,918.24
+Market Equity Value: R35,394,189,753.84
+Fair Value Per Share: R146.03
+Current Price: R41.50
+Upside: 251.88%
+Margin of Safety: 71.58%
+Valuation: Undervalued
+================================================================================

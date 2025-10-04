@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SHC.JO - Shaftesbury Capital plc
+Sector: Real Estate
+Industry: REIT - Retail
+Country: United Kingdom
+Website: https://www.shaftesburycapital.com
+Description: Shaftesbury Capital PLC ("Shaftesbury Capital") is the leading central London mixed-use REIT and is a constituent of the FTSE250 Index. Our property portfolio, valued at £5.0 billion, extends to 2.7 million square feet of lettable space across the mo
+
+FCFF: R317,200,000.00
+WACC: 7.77%
+ROIC: 1272.16%
+Excess Returns: 1264.38%
+Future FCFF: ['R333,060,000.00', 'R349,713,000.00', 'R367,198,650.00', 'R385,558,582.50', 'R404,836,511.63']
+PV of FCFF: ['R309,038,013.44', 'R301,086,045.87', 'R293,338,693.22', 'R285,790,690.47', 'R278,436,908.07']
+Terminal Value: R8,735,984,774.47
+PV of Terminal Value: R6,008,402,206.17
+Market Equity Value: R6,115,092,557.24
+Fair Value Per Share: R3.36
+Current Price: R33.16
+Upside: -89.88%
+Margin of Safety: -887.83%
+Valuation: Overvalued
+================================================================================

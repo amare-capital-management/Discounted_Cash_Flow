@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for TRU.JO - Truworths Int Ltd
+Sector: Consumer Cyclical
+Industry: Apparel Retail
+Country: South Africa
+Website: https://www.truworths.co.za
+Description: Truworths International Limited, an investment holding and management company, engages in the retail of fashion apparel and accessories. It operates through Truworths Africa and Office UK segments. The company offers accessories, bags, bottoms, jacke
+
+FCFF: R5,042,000,000.00
+WACC: 7.95%
+ROIC: 68.59%
+Excess Returns: 60.64%
+Future FCFF: ['R5,294,100,000.00', 'R5,558,805,000.00', 'R5,836,745,250.00', 'R6,128,582,512.50', 'R6,435,011,638.13']
+PV of FCFF: ['R4,904,172,214.94', 'R4,770,112,081.27', 'R4,639,716,606.72', 'R4,512,885,614.42', 'R4,389,521,665.89']
+Terminal Value: R133,874,822,365.53
+PV of Terminal Value: R91,320,181,895.08
+Market Equity Value: R109,304,590,078.32
+Fair Value Per Share: R291.20
+Current Price: R56.55
+Upside: 414.94%
+Margin of Safety: 80.58%
+Valuation: Undervalued
+================================================================================

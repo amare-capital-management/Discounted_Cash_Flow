@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for VAL.JO - Valterra Platinum Ltd
+Sector: Basic Materials
+Industry: Other Precious Metals & Mining
+Country: South Africa
+Website: https://www.valterraplatinum.com
+Description: Valterra Platinum Limited engages in the production and supply of platinum group metals, base metals, and precious metals in South Africa, Asia, Europe, North America, and internationally. The company produces platinum, palladium, rhodium, ruthenium,
+
+FCFF: R-3,042,000,000.00
+WACC: 8.00%
+ROIC: 10.48%
+Excess Returns: 2.49%
+Future FCFF: ['R-3,194,100,000.00', 'R-3,353,805,000.00', 'R-3,521,495,250.00', 'R-3,697,570,012.50', 'R-3,882,448,513.13']
+PV of FCFF: ['R-2,957,603,112.69', 'R-2,875,547,722.62', 'R-2,795,768,867.56', 'R-2,718,203,387.60', 'R-2,642,789,875.11']
+Terminal Value: R-80,038,712,825.05
+PV of Terminal Value: R-54,482,499,679.28
+Market Equity Value: R-52,644,412,644.87
+Fair Value Per Share: R-199.42
+Current Price: R1,191.52
+Upside: -116.74%
+Margin of Safety: 697.48%
+Valuation: Overvalued
+================================================================================

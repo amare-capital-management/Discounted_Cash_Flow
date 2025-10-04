@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SSS.JO - Stor-Age Prop REIT Ltd
+Sector: Real Estate
+Industry: REIT - Industrial
+Country: South Africa
+Website: https://www.stor-age.co.za/cape-town
+Description: Stor-Age is the largest self storage property fund and most recognisable brand in SA. The portfolio consists of 108 properties across SA (63) and the UK (45) as at June 2025, providing storage to more than 55 000 customers. The combined value of the 
+
+FCFF: R1,330,323,000.00
+WACC: 7.95%
+ROIC: 4600.27%
+Excess Returns: 4592.32%
+Future FCFF: ['R1,396,839,150.00', 'R1,466,681,107.50', 'R1,540,015,162.88', 'R1,617,015,921.02', 'R1,697,866,717.07']
+PV of FCFF: ['R1,293,980,427.76', 'R1,258,630,684.00', 'R1,224,246,646.03', 'R1,190,801,932.10', 'R1,158,270,881.19']
+Terminal Value: R35,336,366,224.42
+PV of Terminal Value: R24,106,181,971.32
+Market Equity Value: R25,848,840,542.39
+Fair Value Per Share: R53.49
+Current Price: R16.22
+Upside: 229.78%
+Margin of Safety: 69.68%
+Valuation: Undervalued
+================================================================================

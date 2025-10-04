@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for WBC.JO - We Buy Cars Hlds Ltd
+Sector: Consumer Cyclical
+Industry: Auto & Truck Dealerships
+Country: South Africa
+Website: https://www.webuycars.co.za
+Description: We Buy Cars Holdings Limited engages in buying, distributing, and retailing pre-owned motor vehicles through their website in South Africa. The company is also involved in the sale of car finance, insurance, and other ancillary products. In addition,
+
+FCFF: R779,532,000.00
+WACC: 8.17%
+ROIC: 60.46%
+Excess Returns: 52.29%
+Future FCFF: ['R818,508,600.00', 'R859,434,030.00', 'R902,405,731.50', 'R947,526,018.08', 'R994,902,318.98']
+PV of FCFF: ['R756,714,942.44', 'R734,565,744.72', 'R713,064,858.45', 'R692,193,307.42', 'R671,932,670.87']
+Terminal Value: R19,836,258,650.36
+PV of Terminal Value: R13,396,923,497.58
+Market Equity Value: R15,709,425,021.48
+Fair Value Per Share: R37.61
+Current Price: R55.66
+Upside: -32.43%
+Margin of Safety: -47.99%
+Valuation: Overvalued
+================================================================================

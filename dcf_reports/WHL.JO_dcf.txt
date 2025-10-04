@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for WHL.JO - Woolworths Holdings Ltd
+Sector: Consumer Cyclical
+Industry: Department Stores
+Country: South Africa
+Website: https://www.woolworthsholdings.co.za
+Description: Woolworths Holdings Limited, through its subsidiaries, operates a chain of retail stores in South Africa, Australia, and New Zealand. It operates through seven segments: Woolworths Fashion, Beauty and Home; Woolworths Food; Woolworths Logistics; Coun
+
+FCFF: R4,663,000,000.00
+WACC: 8.88%
+ROIC: 30.78%
+Excess Returns: 21.90%
+Future FCFF: ['R4,896,150,000.00', 'R5,140,957,500.00', 'R5,398,005,375.00', 'R5,667,905,643.75', 'R5,951,300,925.94']
+PV of FCFF: ['R4,496,887,580.50', 'R4,336,692,668.16', 'R4,182,204,460.63', 'R4,033,219,665.05', 'R3,889,542,230.58']
+Terminal Value: R104,273,112,160.24
+PV of Terminal Value: R68,148,910,348.88
+Market Equity Value: R73,708,456,953.79
+Fair Value Per Share: R82.68
+Current Price: R52.38
+Upside: 57.84%
+Margin of Safety: 36.65%
+Valuation: Undervalued
+================================================================================

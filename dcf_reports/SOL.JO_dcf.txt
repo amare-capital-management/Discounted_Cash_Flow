@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SOL.JO - Sasol Limited
+Sector: Basic Materials
+Industry: Specialty Chemicals
+Country: South Africa
+Website: https://www.sasol.com
+Description: Sasol Limited operates as a chemical and energy company. It offers bitumen, industrial heating fuels, naphtha, lubricants and lubricant base oils, liquefied petroleum gas, automotive and industrial lubricants, greases, cleansers and degreasers, autom
+
+FCFF: R-9,310,000,000.00
+WACC: 8.05%
+ROIC: 12.73%
+Excess Returns: 4.68%
+Future FCFF: ['R-9,775,500,000.00', 'R-10,264,275,000.00', 'R-10,777,488,750.00', 'R-11,316,363,187.50', 'R-11,882,181,346.88']
+PV of FCFF: ['R-9,047,590,326.54', 'R-8,792,576,876.15', 'R-8,544,751,180.46', 'R-8,303,910,646.94', 'R-8,069,858,393.32']
+Terminal Value: R-242,573,137,818.71
+PV of Terminal Value: R-164,745,076,267.83
+Market Equity Value: R-287,125,763,691.24
+Fair Value Per Share: R-455.47
+Current Price: R106.72
+Upside: -526.79%
+Margin of Safety: 123.43%
+Valuation: Overvalued
+================================================================================
