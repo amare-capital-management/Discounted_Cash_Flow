@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SRE.JO - Sirius Real Estate Ltd
+Sector: Real Estate
+Industry: Real Estate Services
+Country: Guernsey
+Website: https://www.sirius-real-estate.com
+Description: Sirius Real Estate Limited engages in the investment, development, and operation of commercial and industrial properties in Germany and the United Kingdom. It owns and manages offices; warehouses, storerooms, and self-storage products; production and
+
+FCFF: R171,700,000.00
+WACC: 7.58%
+ROIC: 802.45%
+Excess Returns: 794.86%
+Future FCFF: ['R180,285,000.00', 'R189,299,250.00', 'R198,764,212.50', 'R208,702,423.13', 'R219,137,544.28']
+PV of FCFF: ['R167,577,827.21', 'R163,554,619.52', 'R159,628,000.98', 'R155,795,652.68', 'R152,055,311.39']
+Terminal Value: R4,925,139,234.63
+PV of Terminal Value: R3,417,459,031.96
+Market Equity Value: R3,432,370,443.74
+Fair Value Per Share: R2.28
+Current Price: R2,250.00
+Upside: -99.90%
+Margin of Safety: -98584.63%
+Valuation: Overvalued
+================================================================================

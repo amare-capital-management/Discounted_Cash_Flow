@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SSW.JO - Sibanye Stillwater Ltd
+Sector: Basic Materials
+Industry: Other Precious Metals & Mining
+Country: South Africa
+Website: https://www.sibanyestillwater.com
+Description: Sibanye Stillwater Limited, together with its subsidiaries, operates as a precious metals mining company in South Africa, the United States, Europe, and Australia. The company produces gold; platinum group metals (PGMs), including palladium, platinum
+
+FCFF: R-16,917,000,000.00
+WACC: 7.97%
+ROIC: -1.42%
+Excess Returns: -9.38%
+Future FCFF: ['R-17,762,850,000.00', 'R-18,650,992,500.00', 'R-19,583,542,125.00', 'R-20,562,719,231.25', 'R-21,590,855,192.81']
+PV of FCFF: ['R-16,451,705,759.08', 'R-15,999,209,220.50', 'R-15,559,158,389.41', 'R-15,131,210,952.38', 'R-14,715,034,011.18']
+Terminal Value: R-447,487,390,576.76
+PV of Terminal Value: R-304,980,609,295.25
+Market Equity Value: R-408,852,927,627.79
+Fair Value Per Share: R-144.44
+Current Price: R4,895.00
+Upside: -102.95%
+Margin of Safety: 3488.90%
+Valuation: Overvalued
+================================================================================

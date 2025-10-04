@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for PPC.JO - PPC Limited
+Sector: Basic Materials
+Industry: Building Materials
+Country: South Africa
+Website: https://www.ppc.africa
+Description: PPC Ltd, together with its subsidiaries, engages in the production and sale of cement, aggregates, ready mix concrete, and fly ash in South Africa, Botswana, and Zimbabwe. It also provides premixes, stone, sand, road layer materials, and special aggr
+
+FCFF: R1,067,000,000.00
+WACC: 8.07%
+ROIC: 15.53%
+Excess Returns: 7.46%
+Future FCFF: ['R1,120,350,000.00', 'R1,176,367,500.00', 'R1,235,185,875.00', 'R1,296,945,168.75', 'R1,361,792,427.19']
+PV of FCFF: ['R1,036,689,651.80', 'R1,007,240,331.91', 'R978,627,581.03', 'R950,827,634.70', 'R923,817,403.50']
+Terminal Value: R27,665,872,231.57
+PV of Terminal Value: R18,768,069,009.86
+Market Equity Value: R23,894,271,612.80
+Fair Value Per Share: R16.28
+Current Price: R536.00
+Upside: -96.96%
+Margin of Safety: -3192.38%
+Valuation: Overvalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for TKG.JO - Telkom SA SOC Ltd
+Sector: Communication Services
+Industry: Telecom Services
+Country: South Africa
+Website: https://www.telkom.co.za
+Description: Telkom SA SOC Ltd operates as an integrated communications and information technology (IT) services provider in South Africa, the United States, the United Kingdom, rest of Europe, and internationally. It operates through Openserve, Telkom Consumer, 
+
+FCFF: R5,165,000,000.00
+WACC: 9.20%
+ROIC: 15.92%
+Excess Returns: 6.72%
+Future FCFF: ['R5,423,250,000.00', 'R5,694,412,500.00', 'R5,979,133,125.00', 'R6,278,089,781.25', 'R6,591,994,270.31']
+PV of FCFF: ['R4,966,517,139.64', 'R4,775,661,664.73', 'R4,592,140,466.79', 'R4,415,671,701.05', 'R4,245,984,353.59']
+Terminal Value: R109,578,608,261.36
+PV of Terminal Value: R70,580,925,450.93
+Market Equity Value: R85,999,900,776.72
+Fair Value Per Share: R174.70
+Current Price: R5,426.00
+Upside: -96.78%
+Margin of Safety: -3005.96%
+Valuation: Overvalued
+================================================================================

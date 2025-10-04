@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for PPH.JO - Pepkor Holdings Ltd
+Sector: Consumer Cyclical
+Industry: Department Stores
+Country: South Africa
+Website: https://www.pepkor.co.za
+Description: Pepkor Holdings Limited, together with its subsidiaries, operates as a retailer focusing on discount, value, and specialized goods in Angola, Botswana, Brazil, Eswatini, Lesotho, Mozambique, Malawi, Namibia, South Africa, and Zambia. It offers clothi
+
+FCFF: R9,080,000,000.00
+WACC: 9.66%
+ROIC: 35.82%
+Excess Returns: 26.17%
+Future FCFF: ['R9,534,000,000.00', 'R10,010,700,000.00', 'R10,511,235,000.00', 'R11,036,796,750.00', 'R11,588,636,587.50']
+PV of FCFF: ['R8,694,538,235.24', 'R8,325,439,991.63', 'R7,972,010,609.30', 'R7,633,584,917.87', 'R7,309,525,984.62']
+Terminal Value: R179,357,042,007.80
+PV of Terminal Value: R113,129,352,981.44
+Market Equity Value: R133,058,452,720.11
+Fair Value Per Share: R36.07
+Current Price: R2,478.00
+Upside: -98.54%
+Margin of Safety: -6770.87%
+Valuation: Overvalued
+================================================================================

@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for RLO.JO - Reunert Ltd
+Sector: Industrials
+Industry: Electrical Equipment & Parts
+Country: South Africa
+Website: https://reunert.com
+Description: Reunert Limited operates in the fields of electrical engineering, information communication technologies (ICT), and applied electronics in South Africa, rest of Africa, the United States, Australia, Asia, and Europe. Its Electrical Engineering segmen
+
+FCFF: R1,649,000,000.00
+WACC: 9.04%
+ROIC: 153.85%
+Excess Returns: 144.81%
+Future FCFF: ['R1,731,450,000.00', 'R1,818,022,500.00', 'R1,908,923,625.00', 'R2,004,369,806.25', 'R2,104,588,296.56']
+PV of FCFF: ['R1,587,926,274.17', 'R1,529,114,525.29', 'R1,472,480,976.91', 'R1,417,944,955.40', 'R1,365,428,775.01']
+Terminal Value: R35,898,788,393.59
+PV of Terminal Value: R23,290,654,395.83
+Market Equity Value: R30,877,549,902.61
+Fair Value Per Share: R196.51
+Current Price: R5,555.00
+Upside: -96.46%
+Margin of Safety: -2726.88%
+Valuation: Overvalued
+================================================================================

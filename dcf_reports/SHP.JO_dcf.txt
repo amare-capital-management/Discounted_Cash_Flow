@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SHP.JO - Shoprite Holdings Ltd
+Sector: Consumer Cyclical
+Industry: Department Stores
+Country: South Africa
+Website: https://www.shopriteholdings.co.za
+Description: Shoprite Holdings Ltd, an investment holding company, primarily engages in the food retailing business in South Africa and internationally. The company operates through four segments: Supermarkets RSA, Supermarkets Non-RSA, Furniture, and Other Opera
+
+FCFF: R15,951,000,000.00
+WACC: 8.80%
+ROIC: 26.10%
+Excess Returns: 17.30%
+Future FCFF: ['R16,748,550,000.00', 'R17,585,977,500.00', 'R18,465,276,375.00', 'R19,388,540,193.75', 'R20,357,967,203.44']
+PV of FCFF: ['R15,393,627,506.00', 'R14,855,731,163.78', 'R14,336,630,422.20', 'R13,835,668,510.47', 'R13,352,211,607.21']
+Terminal Value: R361,414,749,426.73
+PV of Terminal Value: R237,041,653,721.66
+Market Equity Value: R262,885,522,931.32
+Fair Value Per Share: R486.35
+Current Price: R27,963.00
+Upside: -98.26%
+Margin of Safety: -5649.52%
+Valuation: Overvalued
+================================================================================

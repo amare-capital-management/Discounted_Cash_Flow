@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for TGA.JO - Thungela Resources Ltd
+Sector: Energy
+Industry: Thermal Coal
+Country: South Africa
+Website: https://www.thungela.com
+Description: Thungela Resources Limited engages in the mining and production of thermal coal in South Africa and Australia. It owns interests in and produces its thermal coal from mining operations, consisting of underground and open cast mines in the Mpumalanga 
+
+FCFF: R5,081,000,000.00
+WACC: 20.61%
+ROIC: 31.21%
+Excess Returns: 10.60%
+Future FCFF: ['R5,335,050,000.00', 'R5,601,802,500.00', 'R5,881,892,625.00', 'R6,175,987,256.25', 'R6,484,786,619.06']
+PV of FCFF: ['R4,423,311,969.69', 'R3,850,755,516.87', 'R3,352,311,153.34', 'R2,918,385,760.82', 'R2,540,627,960.64']
+Terminal Value: R37,924,640,191.50
+PV of Terminal Value: R14,858,222,317.51
+Market Equity Value: R40,564,614,678.87
+Fair Value Per Share: R315.50
+Current Price: R8,641.00
+Upside: -96.35%
+Margin of Safety: -2638.85%
+Valuation: Overvalued
+================================================================================

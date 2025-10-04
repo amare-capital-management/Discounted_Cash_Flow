@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for RDF.JO - Redefine Properties Ltd
+Sector: Real Estate
+Industry: REIT - Diversified
+Country: South Africa
+Website: https://www.redefine.co.za
+Description: Redefine Properties Limited is a Real Estate Investment Trust (REIT) with a sectoral and geographically diversified property asset platform valued at R99.4 billion (FY24: R99.6 billion). Redefines portfolio is predominately anchored in South Africa t
+
+FCFF: R8,292,277,000.00
+WACC: 9.19%
+ROIC: 4047.34%
+Excess Returns: 4038.15%
+Future FCFF: ['R8,706,890,850.00', 'R9,142,235,392.50', 'R9,599,347,162.13', 'R10,079,314,520.23', 'R10,583,280,246.24']
+PV of FCFF: ['R7,974,161,453.61', 'R7,668,249,732.64', 'R7,374,073,663.32', 'R7,091,183,032.37', 'R6,819,144,897.98']
+Terminal Value: R176,137,319,227.61
+PV of Terminal Value: R113,490,890,707.61
+Market Equity Value: R107,619,193,487.52
+Fair Value Per Share: R15.49
+Current Price: R507.00
+Upside: -96.94%
+Margin of Safety: -3173.27%
+Valuation: Overvalued
+================================================================================

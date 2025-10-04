@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for TFG.JO - The Foschini Group Limited
+Sector: Consumer Cyclical
+Industry: Department Stores
+Country: South Africa
+Website: https://www.tfglimited.co.za
+Description: The Foschini Group Limited, together with its subsidiaries, operates retail stores in South Africa and internationally. The company operates through TFG Africa, TFG London, and TFG Australia segments. It provides clothing, jewellery, cellphones, acce
+
+FCFF: R10,395,000,000.00
+WACC: 8.36%
+ROIC: 33.98%
+Excess Returns: 25.62%
+Future FCFF: ['R10,914,750,000.00', 'R11,460,487,500.00', 'R12,033,511,875.00', 'R12,635,187,468.75', 'R13,266,946,842.19']
+PV of FCFF: ['R10,072,513,033.39', 'R9,760,030,669.34', 'R9,457,242,532.29', 'R9,163,847,875.55', 'R8,879,555,282.59']
+Terminal Value: R254,860,641,908.59
+PV of Terminal Value: R170,577,992,517.93
+Market Equity Value: R197,742,181,911.08
+Fair Value Per Share: R601.38
+Current Price: R11,081.00
+Upside: -94.57%
+Margin of Safety: -1742.58%
+Valuation: Overvalued
+================================================================================

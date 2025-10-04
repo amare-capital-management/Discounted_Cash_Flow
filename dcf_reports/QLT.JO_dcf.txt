@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for QLT.JO - Quilter plc
+Sector: Financial Services
+Industry: Asset Management
+Country: United Kingdom
+Website: https://plc.quilter.com
+Description: Quilter plc provides advice-led investment solutions in the United Kingdom and internationally. It operates through High Net Worth and Affluent segments. The High Net Worth segment provides discretionary investment management services to high-net wor
+
+FCFF: R60,000,000.00
+WACC: 8.19%
+ROIC: 61.54%
+Excess Returns: 53.35%
+Future FCFF: ['R63,000,000.00', 'R66,150,000.00', 'R69,457,500.00', 'R72,930,375.00', 'R76,576,893.75']
+PV of FCFF: ['R58,230,806.34', 'R56,513,780.11', 'R54,847,383.09', 'R53,230,122.38', 'R51,660,549.13']
+Terminal Value: R1,519,688,545.88
+PV of Terminal Value: R1,025,217,150.22
+Market Equity Value: R2,608,699,791.27
+Fair Value Per Share: R1.88
+Current Price: R3,790.00
+Upside: -99.95%
+Margin of Safety: -201597.56%
+Valuation: Overvalued
+================================================================================

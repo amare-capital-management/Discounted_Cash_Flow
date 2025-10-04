@@ -1,0 +1,24 @@
+
+================================================================================
+DCF Analysis for SLM.JO - Sanlam Limited
+Sector: Financial Services
+Industry: Insurance - Life
+Country: South Africa
+Website: https://www.sanlam.co.za
+Description: Sanlam Limited provides various financial solutions to individual, business, and institutional clients in South Africa, rest of Africa, Asia, and internationally. It offers life, disability, severe illness, income protection, funeral, credit life, he
+
+FCFF: R30,875,000,000.00
+WACC: 8.30%
+ROIC: 778.63%
+Excess Returns: 770.33%
+Future FCFF: ['R32,418,750,000.00', 'R34,039,687,500.00', 'R35,741,671,875.00', 'R37,528,755,468.75', 'R39,405,193,242.19']
+PV of FCFF: ['R29,932,958,029.51', 'R29,019,659,154.54', 'R28,134,226,380.69', 'R27,275,809,471.93', 'R26,443,584,134.23']
+Terminal Value: R765,144,819,381.38
+PV of Terminal Value: R513,464,590,360.64
+Market Equity Value: R667,414,827,531.55
+Fair Value Per Share: R319.70
+Current Price: R8,562.00
+Upside: -96.27%
+Margin of Safety: -2578.17%
+Valuation: Overvalued
+================================================================================
